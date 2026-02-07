@@ -1,4 +1,4 @@
-# Product Dashboard — React Assignment
+# Product Dashboard
 
 ## Overview
 This project is a small React application built to display product data from a public API. It renders the data in a table, supports inline editing of product titles, and loads additional records as the user scrolls. The goal of the implementation was to demonstrate state management, API interaction, and use of browser APIs without relying on external table libraries.
