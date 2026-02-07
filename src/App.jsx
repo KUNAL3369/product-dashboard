@@ -15,8 +15,8 @@ function App() {
     <div
       style={{
       width: "92%",
-      maxWidth: 900,        // smaller and more comfortable
-      margin: "20px auto",   // reduced top space
+      maxWidth: 900,        
+      margin: "20px auto",   
       padding: 30,
       background: "#e9ecef",
       boxShadow: "0 6px 18px rgba(0,0,0,0.08)",
