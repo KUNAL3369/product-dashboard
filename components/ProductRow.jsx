@@ -23,6 +23,8 @@ export default function ProductRow({ product, onTitleChange }) {
     >
     <td style={cell}>
       <input
+       name={`title-${product.id}`}
+       aria-label="Edit product title"
        value={product.title}
        onChange={(e) =>
         onTitleChange(product.id, e.target.value)
